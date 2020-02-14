@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace C968InventoryApp.Properties
+namespace InventoryApp.Properties
 {
 
 
